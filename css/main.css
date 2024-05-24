@@ -97,10 +97,9 @@
     margin: 0 auto;
     margin-bottom: 1.38rem;
     color: var(--color-white);
-    font-size:rem ;
 }
 .btn-hero{
-    padding: 0.3 0.9rem;
+    padding: 0.5rem 0.9rem;
     font-size: 1.1rem;
     background-color: var(--color-white);
     color: var(--color-primary3);
