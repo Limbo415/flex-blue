@@ -297,3 +297,6 @@
     font-size: 1rem;
     text-align: center;
 }
+.footer h3{
+    color: var(--color-white);
+}
