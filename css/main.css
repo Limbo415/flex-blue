@@ -272,19 +272,19 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 2rem;
     margin-bottom: 1.5rem;
 }
 .footer-link{
     color: var(--color-white);
     font-size: 1rem;
-    margin-right: 1rem;
+    /* margin-right: 1rem; */
     transition: var(--transition);
 }
 .footer-link:hover{
     color: var(--color-primary5);
 }
 .footer-icon{
-    margin-right: 2rem;
     color: var(--color-primary5);
     font-size:2rem;
     transition: var(--transition);
